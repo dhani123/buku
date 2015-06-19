@@ -20,7 +20,7 @@ if(isset($_SESSION['nama'])) {
           <input type="hidden" name="proses" value="tambah"/>
 		<table> 
 		<tr>
-              <td>Judul</td>
+              <td>Judulnya</td>
               <td> : </td>
               <td><input type="text" name="Judul"/></td>
               <td><input name="submit" type="submit" value="Upload" />
